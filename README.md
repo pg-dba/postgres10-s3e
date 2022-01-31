@@ -1,4 +1,4 @@
-# postgresql10
+# postgres10-s3e
 
 https://hub.docker.com/_/postgres
 
